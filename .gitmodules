@@ -4,3 +4,6 @@
 [submodule "todo-micro-frontend-navabar"]
 	path = todo-micro-frontend-navabar
 	url = git@github.com:rohitkumarrana67/todo-micro-frontend-navabar.git
+[submodule "todo-micro-frontend-footer"]
+	path = todo-micro-frontend-footer
+	url = git@github.com:rohitkumarrana67/todo-micro-frontend-footer.git
