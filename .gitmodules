@@ -1,3 +1,6 @@
 [submodule "todo-route-config"]
 	path = todo-route-config
 	url = git@github.com:rohitkumarrana67/todo-route-config.git
+[submodule "todo-micro-frontend-navabar"]
+	path = todo-micro-frontend-navabar
+	url = git@github.com:rohitkumarrana67/todo-micro-frontend-navabar.git
