@@ -10,3 +10,6 @@
 [submodule "micro-frontend-todos"]
 	path = micro-frontend-todos
 	url = git@github.com:rohitkumarrana67/micro-frontend-todos.git
+[submodule "micro-frontend-notes"]
+	path = micro-frontend-notes
+	url = git@github.com:rohitkumarrana67/micro-frontend-notes.git
