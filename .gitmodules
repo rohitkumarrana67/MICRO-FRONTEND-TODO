@@ -7,3 +7,6 @@
 [submodule "todo-micro-frontend-footer"]
 	path = todo-micro-frontend-footer
 	url = git@github.com:rohitkumarrana67/todo-micro-frontend-footer.git
+[submodule "micro-frontend-todos"]
+	path = micro-frontend-todos
+	url = git@github.com:rohitkumarrana67/micro-frontend-todos.git
